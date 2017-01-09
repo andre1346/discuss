@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Hello Hello</title>
+    <title>Hello Hello 2</title>
     <link rel="stylesheet" href="<%= 
     static_path(@conn, "/css/app.css") %>">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
